@@ -895,10 +895,11 @@ UZS:
   code: UZS
   name: Sums
   full_name: "Uzbekistan Sums"
-  symbol: лв
+  symbol: UZS
   unicode_hex:
-    - 1083
-    - 1074
+    - 85
+    - 90
+    - 83
 VEF:
   code: VEF
   name: "Bolivares Fuertes"
