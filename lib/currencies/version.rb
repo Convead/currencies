@@ -1,3 +1,3 @@
 module Currencies
-  VERSION = "0.4.8"
+  VERSION = "0.4.8.1"
 end
